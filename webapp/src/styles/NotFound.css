@@ -1,0 +1,29 @@
+
+/*Error Section Starts Here*/
+.error-section {
+    min-height: 100vh;
+    justify-content: center;
+    align-items: center;
+}
+
+.error-wrapper {
+    max-width: 705px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.error-wrapper .error-thumb {
+    margin-bottom: 50px;
+}
+
+.error-wrapper .error-thumb img {
+    max-width: 100%;
+}
+
+.error-wrapper .title {
+    color: #171d1c;
+}
+
+.error-wrapper .title a {
+    color: #ee4730;
+}
